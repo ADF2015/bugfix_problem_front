@@ -1,0 +1,40 @@
+html, body {
+  background-color: #804cd6;
+  color: white;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font: bold 36px sans-serif;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  padding: 10px 0;
+  background-color: hsl(263, "95%", "34%");
+  font: bold 32px sans-serif;
+}
+
+li.send-hi-button {
+  cursor: pointer;
+}
+
+#add-user-input {
+  margin: 0 10px;
+  border: 0
+  width: 200px;
+  height: 30px;
+  font: bold 20px sans-serif;
+}
+
+#add-user-button {
+  cursor: pointer;
+}
