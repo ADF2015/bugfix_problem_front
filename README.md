@@ -1,5 +1,5 @@
 # bugfix-front
-Application Developer Festival 2015 バグフィックスのフロントエンド問題です.
+Application Developer Festival 2015 バグフィックスチャレンジのフロントエンド問題です.
 全体的なルールについては[こちら](https://github.com/ADF2015/bugfix_rule)を参照してください.
 
 ## 問題
@@ -63,4 +63,4 @@ console.log("OK");
 ![send](images/send.gif)
 
 ## その他
-* 不明な点があれば @ymyzk に確認すること
+* 不明な点があれば @ymyzk に確認すること.
